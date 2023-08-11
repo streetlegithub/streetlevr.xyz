@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Good VR Roblox Games - streetlevr</title>
+    <link rel="stylesheet" href="main.css">
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@300;400;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <header>
+        <h1>streetlevr</h1>
+    </header>
+    <main>
+        <div class="section" id="roblox-game-and-tiktok">
+            <h2>NERF Strike</h2>
+            <iframe src="https://www.tiktok.com/embed/v2/7261667709748808987" width="320" height="560" frameborder="0"
+                scrolling="no" allowfullscreen="true">
+            </iframe>
+            <br><br>
+            <a href="https://www.roblox.com/games/6245984328/NERF-Strike-VR-Supported" target="_blank"
+                class="roblox-link">
+                <img src="roblox.png" alt="Roblox Logo" class="roblox-logo">
+                <span class="roblox-text">NERF Strike</span>
+            </a>
+        </div>
+
+        <div class="section" id="pirates-game-and-tiktok">
+            <h2>Tower Defense Simulator</h2>
+            <iframe src="https://www.tiktok.com/embed/v2/7261987571201314080" width="320" height="560" frameborder="0"
+                scrolling="no" allowfullscreen="true">
+            </iframe>
+            <br><br>
+            <a href="https://www.roblox.com/games/3260590327/PIRATES-Tower-Defense-Simulator" target="_blank"
+                class="roblox-link">
+                <img src="roblox.png" alt="Roblox Logo" class="roblox-logo">
+                <span class="roblox-text">Tower Defense Simulator</span>
+            </a>
+        </div>
+        <div class="advertisement">
+            <h2>Advertisement</h2>
+            <script type="text/javascript">
+                atOptions = {
+                    'key': '8b36dfe5acd802b6424891e2c03d5cd4',
+                    'format': 'iframe',
+                    'height': 250,
+                    'width': 300,
+                    'params': {}
+                };
+                document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.profitablecreativeformat.com/8b36dfe5acd802b6424891e2c03d5cd4/invoke.js"></scr' + 'ipt>');
+            </script>
+        </div>
+        <div class="advertisement"></div>
+        <div class="section" id="opposer-game-and-tiktok">
+            <h2>OPPOSER VR [Alpha]</h2>
+            <iframe src="https://www.tiktok.com/embed/v2/7262848015927414048" width="320" height="560" frameborder="0"
+                scrolling="no" allowfullscreen="true">
+            </iframe>
+            <br><br>
+            <a href="https://www.roblox.com/games/7406004869/OPPOSER-VR-Alpha" target="_blank" class="roblox-link">
+                <img src="roblox.png" alt="Roblox Logo" class="roblox-logo">
+                <span class="roblox-text">OPPOSER VR [Alpha]</span>
+            </a>
+        </div>
+
+        <div class="section" id="theme-park-game-and-tiktok">
+            <h2>Theme Park Tycoon 2</h2>
+            <iframe src="https://www.tiktok.com/embed/v2/7263199873854442784" width="320" height="560" frameborder="0"
+                scrolling="no" allowfullscreen="true">
+            </iframe>
+            <br><br>
+            <a href="https://www.roblox.com/games/69184822/Theme-Park-Tycoon-2" target="_blank" class="roblox-link">
+                <img src="roblox.png" alt="Roblox Logo" class="roblox-logo">
+                <span class="roblox-text">Theme Park Tycoon 2</span>
+            </a>
+        </div>
+
+        <div class="section" id="vr-exclusive-game-and-tiktok">
+            <h2>EdgeWorks</h2>
+            <iframe src="https://www.tiktok.com/embed/v2/7264706394811583776" width="320" height="560" frameborder="0"
+                scrolling="no" allowfullscreen="true">
+            </iframe>
+            <br><br>
+            <a href="https://www.roblox.com/games/4545054277/VR-Exclusive-EdgeWorks" target="_blank"
+                class="roblox-link">
+                <img src="roblox.png" alt="Roblox Logo" class="roblox-logo">
+                <span class="roblox-text">EdgeWorks</span>
+            </a>
+        </div>
+
+        <div class="advertisement">
+            <h2>Advertisement</h2>
+            <script type="text/javascript">
+                atOptions = {
+                    'key': '8b36dfe5acd802b6424891e2c03d5cd4',
+                    'format': 'iframe',
+                    'height': 250,
+                    'width': 300,
+                    'params': {}
+                };
+                document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.profitablecreativeformat.com/8b36dfe5acd802b6424891e2c03d5cd4/invoke.js"></scr' + 'ipt>');
+            </script>
+        </div>
+    </main>
+    <footer>
+        <p>Made by streetlevr</p>
+    </footer>
+</body>
+
+</html>
