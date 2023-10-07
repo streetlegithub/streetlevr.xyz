@@ -8,20 +8,63 @@ body {
 
 .background {
     position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
+    width: 130%;
     height: 100%;
     z-index: -1;
-    filter: blur(5px); /* Adjust the blur amount as desired */
-    background-image: url('/img/bg.webp'); /* Replace with your image */
+    filter: blur(5px);
+    background-image: url('/img/bg.webp');
     background-size: cover;
-    background-repeat: repeat; /* To repeat vertically */
-    pointer-events: none; /* This prevents the background from intercepting mouse events */
-    transition: transform 0.2s ease; /* Add a transition for smoother movement */
+    background-repeat: repeat;
+    pointer-events: none;
+    transition: transform 0.2s ease;
 }
 
+@media (min-width: 768px) {
+    .backgroundtut {
+        background-color: rgba(255, 255, 255, 0.5);
+        width: 40%;
+        margin: auto;
+        padding: 20px;
+        border: 1px solid black;
+    }
 
+    .tutorial {
+        width: 100%;
+        display: inline-block;
+    }
+
+    .adbackground {
+        border: 1px solid black;
+        width: 28%;
+        height: 100%;
+        display: inline-block;
+        position: absolute;
+        right: 0;
+        top: 34%;
+    }
+}
+
+@media (max-width: 768px) {
+    .backgroundtut {
+        background-color: rgba(255, 255, 255, 0.5);
+        width: 95%;
+        margin: auto;
+        padding: 20px;
+    }
+
+    .adbackground {
+        height: 100%;
+        display: inline-block;
+        position: relative;
+        right: 0;
+        width: 100%
+    }
+    .tutorial {
+        width: 95%;
+        display: inline-block;
+        margin: auto;
+    }
+}
 
 header {
     background: linear-gradient(to right, #ff6ac0, #a76ea5);
@@ -245,6 +288,7 @@ footer {
         margin-bottom: 20px;
         position: relative;
     }
+
     .tut-img {
         padding: 10px;
         background-color: #000000;
