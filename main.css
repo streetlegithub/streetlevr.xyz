@@ -239,7 +239,7 @@
     }
 
     .advertisements img {
-        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        box-shadow: 0px 0px 12px 8px rgba(0, 0, 0, 0.25), 0 6px 20px 0 rgba(0, 0, 0, 0.15);
     }
 
     .tutorial-wrapper img {
@@ -248,7 +248,7 @@
         border-style: dashed;
         width: 100%;
         margin: auto;
-        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        box-shadow: 0px 0px 12px 8px rgba(0, 0, 0, 0.25), 0 6px 20px 0 rgba(0, 0, 0, 0.15);
     }
 
     .tutorial-text {
