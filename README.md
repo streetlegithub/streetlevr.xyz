@@ -1,2 +1,2 @@
-# vr.streetle.xyz
+# streetlevr.xyz
 Website for my VR TikTok (streetlevr)
