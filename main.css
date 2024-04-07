@@ -6,7 +6,14 @@
         color: white;
         text-align: center;
     }
-
+    
+    referral {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 30%;
+    }
+    
     .background {
         position: fixed;
         width: 100%;
@@ -262,6 +269,13 @@
         padding: 0;
         color: white;
         text-align: center;
+    }
+    
+    referral {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
     }
 
     .background {
